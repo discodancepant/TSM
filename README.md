@@ -11,7 +11,11 @@ In the body of the issue, write the sentence as it was before, and then make a s
 For example:
 
 Title: 
+
 CH 53: Line 160
+
 Body:
+
 "As the students of Hogwarts sat down for the breakfast..."
+
 the should be their, or remove "the".
